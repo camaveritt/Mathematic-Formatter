@@ -1,2 +1,2 @@
 # Mathematic-Formatter
-Program that arranges mathematical problems vertically and solves them.
+Python3 program that arranges mathematical problems vertically and solves them.
